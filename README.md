@@ -27,5 +27,5 @@
 <p><a href="https://github.com/boluoim/indie-makers-land/blob/main/blogs/how-to-self-host-plausible-with-dokploy.md" target="_blank">How to self-host Plausible with Dokploy</a></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/realryanliu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="realryanliu" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/ryanliu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="realryanliu" /></a></p><br><br>
 
