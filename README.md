@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Boluo</h1>
+<h1>Hi 👋, I'm Ryan, or call me Boluo</h1>
 <h4>👨‍💻 Front-end developer</h4>
 <h4>🌱 Full-stack developer in the making</h4>
 
