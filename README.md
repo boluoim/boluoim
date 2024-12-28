@@ -1,6 +1,6 @@
 <h1>Hi 👋 I'm Ryan (Boluo), crafting digital experiences</h1>
 
-![a-digital-illustration-featuring-a-young-chinese-m](https://github.com/user-attachments/assets/de3b63ca-7be3-41af-92bb-d2a34ba5c150)
+<a href="https://www.recraft.ai/invite/LISKnI5wug" target="_blank"> <img src="https://github.com/user-attachments/assets/de3b63ca-7be3-41af-92bb-d2a34ba5c150" alt="cover art by recraft.ai" /> </a>
 
 <h3 align="left">❣️ About Me:</h3>
 
