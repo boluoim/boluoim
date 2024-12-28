@@ -6,7 +6,7 @@
 
 ⛓️ Web3 explorer
 
-🤖 Building AI workflows & agents
+🤖 AI workflow enthusiast
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
