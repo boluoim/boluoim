@@ -14,6 +14,7 @@
 
 <h3 align="left">🌐 Let's Connect:</h3>
 <p>
+  <a href="https://bsky.app/profile/realryanliu.bsky.social" target="_blank"> <img src="https://github.com/user-attachments/assets/4d8e890b-402c-4f5f-8b9e-2bd5e0b4afef" width="40" height="40" /> </a>
   <a herf="https://me.dm/@ryanliu" target="_blank"> <img src="https://me.dm/packs/media/images/logo-symbol-icon-de9e68dc49b19eb5cd142d3316f9e95e.svg" width="40" height="40" /> </a>
 </p>
 
