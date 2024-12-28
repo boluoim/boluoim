@@ -14,8 +14,10 @@
 
 <h3 align="left">🌐 Let's Connect:</h3>
 <p>
-  <a href="https://bsky.app/profile/realryanliu.bsky.social" target="_blank"> <img src="https://github.com/user-attachments/assets/4d8e890b-402c-4f5f-8b9e-2bd5e0b4afef" width="40" height="40" /> </a>
-  <a herf="https://me.dm/@ryanliu" target="_blank"> <img src="https://me.dm/packs/media/images/logo-symbol-icon-de9e68dc49b19eb5cd142d3316f9e95e.svg" width="40" height="40" /> </a>
+  <a href="https://bsky.app/profile/realryanliu.bsky.social" target="_blank"> <img src="https://github.com/user-attachments/assets/4d8e890b-402c-4f5f-8b9e-2bd5e0b4afef" width="40" height="40" alt="bluesky@realrayliu" /> </a>
+  <a herf="https://me.dm/@ryanliu" target="_blank"> <img src="https://me.dm/packs/media/images/logo-symbol-icon-de9e68dc49b19eb5cd142d3316f9e95e.svg" width="40" height="40" alt="mastodon@ryanliu" /> </a>
+  <a hred="https://medium.com/@realryanliu" target="_blank"> <img src="https://github.com/user-attachments/assets/65240a71-e96e-4d6a-87bd-d86e8b157301" width="40" height="40" alt="medium@realryanliu" /> </a>
+  <a href="https://substack.com/@realryanliu" target="_blank"> <img src="https://substackcdn.com/icons/substack/icon.svg" width="40" height="40" alt="substack@realryanliu" /> </a>
 </p>
 
 <h3 align="left">⚒️ Tech Stack:</h3>
