@@ -18,8 +18,9 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://supabase.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://hardhat.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://supabase.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/> </a>
+  <a href="https://hardhat.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" alt="hardhat" width="40" height="40"/> </a>
+  <a href="https://dify.ai" target="_blank" rel="noreferrer"> <img src="https://framerusercontent.com/images/KWDRAMQLGjoMFBAjNjoCFMP7XI.png" width=40" height="40" alt="dify"/> </a>
 </p>
 
 <h3 align="left">Currently Working on:</h3>
