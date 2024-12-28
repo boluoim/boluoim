@@ -18,8 +18,8 @@
   <a href="https://hardhat.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Currently Working:</h3>
-<p><a href="https://indiemakers.land" target="_blank">Indie Makers Land</a></p>
+<h3 align="left">Currently Working on:</h3>
+<p><a href="https://indiemakers.land" target="_blank">Indie Makers Land</a>: Spotlight outstanding indie makers and their inspiring creations ✨</p>
 
 <h3 align="left">Recent Articles:</h3>
 <p><a href="https://github.com/boluoim/indie-makers-land/blob/main/blogs/how-to-self-host-plausible-with-dokploy.md" target="_blank">How to self-host Plausible with Dokploy</a></p>
