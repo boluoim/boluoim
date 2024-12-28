@@ -4,6 +4,8 @@
 
 🌱 Full-stack developer in the making
 
+⛓️ Web3 explorer
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
