@@ -32,7 +32,7 @@
 <p><a href="https://indiemakers.land" target="_blank">Indie Makers Land</a>: Spotlight outstanding indie makers and their inspiring creations ✨</p>
 
 <h3 align="left">📝 Latest Write-ups:</h3>
-<p><a href="https://github.com/boluoim/indie-makers-land/blob/main/blogs/how-to-self-host-plausible-with-dokploy.md" target="_blank">How to self-host Plausible with Dokploy</a></p>
+<p><a href="https://github.com/boluoim/indie-makers-land/blob/main/blogs/how-to-self-host-plausible-on-dokploy.md" target="_blank">How to Self-host Plausible on Dokploy</a></p>
 
 <h3 align="left">☕️ Support My Work:</h3>
 <p><a href="https://www.buymeacoffee.com/ryanliu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="realryanliu" /></a></p><br><br>
