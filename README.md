@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Ryan, or call me Boluo</h1>
+<h1>Hi 👋 I'm Ryan (Boluo), crafting digital experiences</h1>
 
 👨‍💻 Front-end developer
 
@@ -8,7 +8,7 @@
 
 🤖 AI workflow enthusiast
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">⚒️ Tech Stack:</h3>
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -23,12 +23,12 @@
   <a href="https://dify.ai" target="_blank" rel="noreferrer"> <img src="https://framerusercontent.com/images/KWDRAMQLGjoMFBAjNjoCFMP7XI.png" width=40" height="40" alt="dify"/> </a>
 </p>
 
-<h3 align="left">Currently Working on:</h3>
+<h3 align="left">🚀 Latest Projects:</h3>
 <p><a href="https://indiemakers.land" target="_blank">Indie Makers Land</a>: Spotlight outstanding indie makers and their inspiring creations ✨</p>
 
-<h3 align="left">Recent Articles:</h3>
+<h3 align="left">📝 Latest Write-ups:</h3>
 <p><a href="https://github.com/boluoim/indie-makers-land/blob/main/blogs/how-to-self-host-plausible-with-dokploy.md" target="_blank">How to self-host Plausible with Dokploy</a></p>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">☕️ Support My Work:</h3>
 <p><a href="https://www.buymeacoffee.com/ryanliu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="realryanliu" /></a></p><br><br>
 
