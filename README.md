@@ -2,7 +2,7 @@
 
 ![a-digital-illustration-featuring-a-young-chinese-m](https://github.com/user-attachments/assets/de3b63ca-7be3-41af-92bb-d2a34ba5c150)
 
-
+<h3 align="left">❣️ About Me:</h3>
 
 👨‍💻 Front-end developer
 
