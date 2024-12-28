@@ -12,6 +12,11 @@
 
 🤖 AI workflow enthusiast
 
+<h3 align="left">🌐 Let's Connect:</h3>
+<p>
+  <a herf="https://me.dm/@ryanliu" target="_blank"> <img src="https://me.dm/packs/media/images/logo-symbol-icon-de9e68dc49b19eb5cd142d3316f9e95e.svg" width="40" height="40" /> </a>
+</p>
+
 <h3 align="left">⚒️ Tech Stack:</h3>
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
