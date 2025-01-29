@@ -38,6 +38,7 @@
 </p>
 
 <h3 align="left">🚀 Latest Projects:</h3>
+<p><a href="https://whr.li" target="_blank">Whr.li</a>: Transform long, complex URLs into clean, shareable links ⚡️</p>
 <p><a href="https://indiemakers.land" target="_blank">Indie Makers Land</a>: Spotlight outstanding indie makers and their inspiring creations ✨</p>
 
 <h3 align="left">📝 Latest Write-ups:</h3>
