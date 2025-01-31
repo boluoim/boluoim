@@ -43,6 +43,7 @@
 
 <h3 align="left">🤖 Crafted with AI: </h3>
 <p><a href="https://one-million-piggy-bank.vercel.app" target="_blank">One Million Piggy Bank</a>: Dream big, record your first million and next 💰</p>
+<p><a href="https://mindfulness-tau.vercel.app" target="_blank">Mindfulness App</a>: Be Here, Be Now 🧘</p>
 
 <h3 align="left">📝 Latest Write-ups:</h3>
 <p><a href="https://github.com/boluoim/indie-makers-land/blob/main/blogs/how-to-self-host-plausible-on-dokploy.md" target="_blank">How to Self-host Plausible on Dokploy</a></p>
