@@ -41,6 +41,9 @@
 <p><a href="https://whr.li" target="_blank">Whr.li</a>: Transform long, complex URLs into clean, shareable links ⚡️</p>
 <p><a href="https://indiemakers.land" target="_blank">Indie Makers Land</a>: Spotlight outstanding indie makers and their inspiring creations ✨</p>
 
+<h3 align="left">🤖 Crafted with AI: </h3>
+<p><a href="https://one-million-piggy-bank.vercel.app" target="_blank">One Million Piggy Bank</a>: Dream big, record your first million and next 💰</p>
+
 <h3 align="left">📝 Latest Write-ups:</h3>
 <p><a href="https://github.com/boluoim/indie-makers-land/blob/main/blogs/how-to-self-host-plausible-on-dokploy.md" target="_blank">How to Self-host Plausible on Dokploy</a></p>
 
