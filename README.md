@@ -46,7 +46,7 @@
 <p><a href="https://mindfulness-tau.vercel.app" target="_blank">Mindfulness App</a>: Be Here, Be Now 🧘</p>
 
 <h3 align="left">📝 Latest Write-ups:</h3>
-<p><a href="https://github.com/boluoim/indie-makers-land/blob/main/blogs/how-to-self-host-plausible-on-dokploy.md" target="_blank">How to Self-host Plausible on Dokploy</a></p>
+<p>[Draft] LangGraph 101: Introduction to Modern LLM Application Development</p>
 
 <h3 align="left">☕️ Support My Work:</h3>
 <p><a href="https://www.buymeacoffee.com/ryanliu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="realryanliu" /></a></p><br><br>
